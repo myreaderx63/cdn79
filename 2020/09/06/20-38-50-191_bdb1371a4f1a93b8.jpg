@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel=stylesheet type=text/css href="../bbs.css" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<title>欢迎光临瀚海星云BBS站</title>
+</head>
+<script>
+document.write('<frameset id="fmain" name="fmain" cols="151, 10, *" framespacing="0" frameborder="no" border="0" >'+
+'         <frame id="f2" name="f2" marginwidth="0" marginheight="0" src="bbsleft" noresize />'+
+'   <frame src="../f5.html" id="f5" name="f5" marginwidth="0" marginheight="0" frameborder="no" scrolling="NO" noresize/>'+
+'   <frameset id="findex" rows="0, *, 20" framespacing="0" frameborder="no" border="0">'+
+'         <frame id="fmsg" scrolling="NO" marginwidth="0" marginheight="0" name="fmsg" src="bbsgetmsg" noresize/>'+
+'         <frame id="f3" name="f3" marginwidth="0" marginheight="0" src="bbsdoc?cgi=bbsdoc&board=Notice&digestmode=1/favicon.ico" noresize/>'+
+'         <frame id="f4" scrolling="NO" marginwidth="0" marginheight="0" name="f4" src="bbsfoot" noresize/>'+
+'  </frameset>'+
+'</frameset>');
+</script>
+
+<noframes><body>
+抱歉，本站使用Frames，您的浏览器不支持Frames，请更新浏览器版本。
+</body></noframes>
+</html>
